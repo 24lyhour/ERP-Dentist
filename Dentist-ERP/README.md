@@ -790,3 +790,11 @@ Follow-up
 Recall / Reminder
 
 For your ERP-Dentist-System, I would build around this workflow first, then add accounting, inventory, CRM, insurance, reporting, and multi-branch capabilities around it.
+
+
+
+
+
+<img width="3360" height="1828" alt="image" src="https://github.com/user-attachments/assets/5a906271-4234-446e-bc44-75bca0d2ef6f" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d23a4f1-3b5b-4ad4-8f6f-86b9c9e52f5b" />
