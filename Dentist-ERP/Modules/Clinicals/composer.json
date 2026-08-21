@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/clinicals",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Clinicals\\": "app/",
+            "Modules\\Clinicals\\Database\\Factories\\": "database/factories/",
+            "Modules\\Clinicals\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Clinicals\\Tests\\": "tests/"
+        }
+    }
+}

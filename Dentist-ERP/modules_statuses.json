@@ -1,3 +1,6 @@
 {
-    "Patients": true
+    "Patients": true,
+    "Inventorys": true,
+    "Clinicals": true,
+    "Dentist": true
 }
