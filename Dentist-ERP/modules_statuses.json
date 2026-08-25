@@ -1,0 +1,9 @@
+{
+    "Patients": true,
+    "Inventorys": true,
+    "Clinicals": true,
+    "Dentist": true,
+    "Schedules": true,
+    "Accountings": true,
+    "Reports": true
+}
