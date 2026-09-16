@@ -1,0 +1,1 @@
+php artisan module:make-migration create_accountings_table Accountings
