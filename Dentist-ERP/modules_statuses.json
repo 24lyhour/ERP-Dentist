@@ -5,5 +5,6 @@
     "Dentist": true,
     "Schedules": true,
     "Accountings": true,
-    "Reports": true
+    "Reports": true,
+    "Customer": true
 }
